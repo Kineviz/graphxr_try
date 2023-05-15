@@ -10,7 +10,7 @@
 #### 在windows 搜索并打开（Hyper-V Manager）, 让后导入VM
 > windows机器剩余内存推荐不低于10GB
 
-![导入VM](/images/hyper-v-import.png)
+![导入VM](./images/hyper-v-import.png)
 
 #### 连接VM后登录, 并查看IP地址 （示例中ip 为 172.21.57.169）
 
@@ -21,7 +21,7 @@
 ```
 ifconfig eth0 
 ```
-![查看IP](/images/check_ip.png)
+![查看IP](./images/check_ip.png)
 
 #### 访问GraphXR(http://172.21.57.169:9000)
 
