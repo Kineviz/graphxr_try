@@ -1,9 +1,9 @@
-## 使用试用 VM
+## 试用 GraphXR VM
 
 ### 使用Windows Hyper-V 
 
 #### 下载VM, 并解压VM
-
+> 下载密码请联系我们 info#kineviz.com (使用@替换#)
 下载地址: https://img.graphxr.cn/graphxr/GraphXR_Try_vm.zip
 
 
