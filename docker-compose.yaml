@@ -2,7 +2,6 @@ version: "3.8"
 services:
   mongo:
     image: mongo:4.0.28
-    container_name: mongo
     volumes:
       - "./mongo/db:/data/db:rw"
       - "./mongo/backup:/backup:rw"
@@ -11,7 +10,7 @@ services:
   graphxr:
     image: tuke/graphxr:latest
     ports:
-      - 9000:9000
+      - 8080:9000
     volumes:
       - "./graphxr:/data:rw"
     environment:

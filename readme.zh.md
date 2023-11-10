@@ -41,13 +41,13 @@ docker-compose up -d
 ```
 
 ### 4. 打开 graphXR
-推荐使用最新版本的 Chrome/Edge 浏览器打开 http://localhost:9000
+推荐使用最新版本的 Chrome/Edge 浏览器打开 http://localhost:8080
 
 #### GraphXR 信息:
 
 Username: admin@graphxr.cn
 Password: tuke
-URL : http://localhost:9000
+URL : http://localhost:8080
 
 >你可以修改 ADMIN_EMAIL（Username）和password 在  docker-compose.yml 文件中
 
